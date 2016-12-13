@@ -1,2 +1,5 @@
+
 # hello-world
-starting github
+first commit
+
+selamlar, bu ilk commit'im, bakalım neler olacak.
